@@ -1,3 +1,3 @@
 ## Oi, me chamo Beatriz 👩‍💻
 
-Sou desenvolvedora Backend, focada em criar soluções otimizadas e escaláveis.
+Sou desenvolvedora Backend e gosto de colocar ideias em prática através da programação
