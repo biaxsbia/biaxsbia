@@ -17,4 +17,4 @@ Sou desenvolvedora Backend e gosto de colocar ideias em prática através da pro
 ### 🌐 Onde me encontrar
 
 - 💼 [Linkedin](https://www.linkedin.com/in/beatriz-sousa-74949b228/)
-- 📫 E-mail: [beatrizsousaot@gmail.com](mailto:beatrizsousaot@gmail.com)
+- 📫 [beatrizsousaot@gmail.com](mailto:beatrizsousaot@gmail.com)
